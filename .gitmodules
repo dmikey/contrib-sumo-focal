@@ -1,0 +1,3 @@
+[submodule "src/sumojs"]
+	path = src/sumojs
+	url = https://github.com/dmikey/sumojs
